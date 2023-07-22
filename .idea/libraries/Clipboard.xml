@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Clipboard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Clipboard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
